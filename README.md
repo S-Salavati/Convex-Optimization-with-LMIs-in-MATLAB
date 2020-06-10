@@ -1,5 +1,5 @@
-# Convex-Optimization-with-LMIs-in-Python-and-MATLAB
-Solving Semidefinite Programming (SDP) and Linear Matrix Inequalities (LMIs) with YALMIP and CVXPY
+# Convex-Optimization-with-LMIs-in-MATLAB
+Solving Semidefinite Programming (SDP) and Linear Matrix Inequalities (LMIs) with YALMIP and MOSEK
 This code intends to compute the optimal numerical solution to convex constraints in terms of linear matrix inequalities (LMIs)
 for mean arterial blood pressure (MAP) regulation in clinical resuscitation for critical hypotensive patients.
 
