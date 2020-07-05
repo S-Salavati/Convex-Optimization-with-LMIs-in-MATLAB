@@ -15,7 +15,7 @@ Square-root cubature Kalman filter is utilized for parameter estimation along wi
 
 In these codes, I have computed the matrix variable parameters for the output feedback control of automated drug infusion. The
 controller is designed to satisfy the LMI constraints of the induced L_2-norm characterization of the closed-loop system, AKA
-H_\infty control in linear time-invariant (LTI) systems. MATLAB is equipped with YALMIP and the MOSEK solver to solve the constraint shown in the \emph{Dynamics.pdf} file. In the author's point of view and experience, YALMIP may seem better and more versatile in terms of performance and computational time, specifically for handling complicated LMIs and large matrices and constraints as in my problem.
+H_\infty control in linear time-invariant (LTI) systems. MATLAB is equipped with YALMIP and the MOSEK solver to solve the constraint shown in the Dynamics.pdf file. In the author's point of view and experience, YALMIP may seem better and more versatile in terms of performance and computational time, specifically for handling complicated LMIs and large matrices and constraints as in my problem.
 
 Please feel free to contact me with any questions.
 
